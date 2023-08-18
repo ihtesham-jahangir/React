@@ -18,7 +18,7 @@ This repository showcases my journey with React, a powerful JavaScript library f
 - [Additional examples, if applicable].
 
 📦 How to Use:
-1. Clone the repository: `git clone https://github.com/your-username/react-repository.git`
+1. Clone the repository: `https://github.com/ihtesham-jahangir/React.git
 2. Navigate to the project folder: `cd project-folder`
 3. Install dependencies: `npm install`
 4. Run the development server: `npm start`
@@ -28,9 +28,10 @@ This repository showcases my journey with React, a powerful JavaScript library f
 I'm excited to connect with fellow developers and learners! If you have questions, suggestions, or just want to chat about React, feel free to reach out through [your preferred communication channels, such as email, LinkedIn, or social media].
 
 🔗 Useful Links:
-- [Link to your portfolio website]
-- [LinkedIn profile]
-- [Other relevant links]
+- https://alphanetwork.tech/
+- https://www.linkedin.com/in/ihtesham-jahangir-709990236
+- https://www.facebook.com/profile.php?id=100090158717647&mibextid=LQQJ4d
+- https://www.instagram.com/itx_engr_ihtesham/?utm_source=qr
 
 Thank you for checking out my React Repository. Let's keep learning and building together! 🚀
 
